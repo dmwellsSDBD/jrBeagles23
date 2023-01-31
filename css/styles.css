@@ -1,0 +1,66 @@
+/* CSS Document */
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    background-color: #e4f2ea;
+}
+
+.hnav {
+    width: 100%;
+    background-color: #11181e;
+    min-height: 50px;
+    text-align: right;
+}
+
+.hnav ul {
+    display: block;
+    padding-top: .8em;
+}
+
+.hnav ul li {
+    display: inline-block;
+    list-style-type: none;
+    width: 10%;
+    padding: 0 2%;
+    
+}
+
+.hnav a {
+    text-decoration: none;
+    color: #e4f2ea;
+    font-size: 1.5em;
+    font-weight: bold;
+}
+
+nav a:hover {
+    
+}
+
+header {
+    min-height: 400px;
+    background-color: #734f2f;
+    background-image: url("../images/appearance_beagle.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 20% 20%;
+}
+
+h1 {
+    
+}
+
+h2 {
+    
+}
+
+blockquote {
+    
+}
+
+table {
+    
+}
